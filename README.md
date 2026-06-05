@@ -1,6 +1,6 @@
 # 🏫 Anime High School RPG: Portrait Preset [Ver 0.8]
 
-Progress: 28/60 (All first year student and homeroom teachers included, more soon!)
+Progress: 28/60 characters (All classmates and homeroom teachers)
 
 # ⚙️ How to Install
 1. [REQUIRED] Install Claudia's [Dungeon Extension v2](https://github.com/clauds-clauds/ai-dungeon-browser-extension-v2)
