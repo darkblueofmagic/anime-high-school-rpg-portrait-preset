@@ -1,6 +1,6 @@
 # 🏫 Anime High School RPG: Portrait Preset [Ver 0.1]
 
-EXperimental: This Portrait Preset is still in its initial stage, expect future updates and changes!
+Experimental: This Portrait Preset is still in its initial stage, expect future updates and changes!
 
 # ⚙️ How to Install
 1. [REQUIRED] Install Claudia's [Dungeon Extension v2](https://github.com/clauds-clauds/ai-dungeon-browser-extension-v2)
