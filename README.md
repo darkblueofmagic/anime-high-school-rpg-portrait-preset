@@ -1,4 +1,4 @@
-# 🏫 Anime High School RPG: Portrait Preset [Ver 0.2]
+# 🏫 Anime High School RPG: Portrait Preset [Ver 0.3]
 
 Experimental: This Portrait Preset is still in its initial stage, expect future updates and changes!
 
@@ -21,4 +21,4 @@ More information about Dungeon Extension v2 itself can be found on Claudia's [Du
 <img width="1300" height="900" alt="Showcase" src="https://github.com/user-attachments/assets/f176baa4-e117-446d-9636-f936b78ae3dc" />
 
 # 👥 Current Portrait Gallery
-<img width="1717" height="868" alt="image" src="https://github.com/user-attachments/assets/1cae4693-c226-4419-910d-9c6e4c721743" />
+<img width="1655" height="755" alt="image" src="https://github.com/user-attachments/assets/94432501-87c4-464e-9066-e4b7d1e558e1" />
