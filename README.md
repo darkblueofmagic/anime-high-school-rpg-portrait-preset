@@ -2,8 +2,6 @@
 
 Experimental: This Portrait Preset is still in its initial stage, expect future updates and changes!
 
-Note: This extension is primarily for PC. Mobile installation MIGHT BE possible, but more complicated. You can check Claudia's own Discord thread below for more information, but unfortunately I'm only able to support with PC only.
-
 # ⚙️ How to Install
 🖥️ For PC:
 1. [REQUIRED] Install Claudia's [Dungeon Extension v2](https://github.com/clauds-clauds/ai-dungeon-browser-extension-v2) (follow their guide to set it up)
