@@ -5,14 +5,14 @@ Experimental: This Portrait Preset is still in its initial stage, expect future 
 Note: This extension is primarily for PC. Mobile installation MIGHT BE possible, but more complicated. You can check Claudia's own Discord thread below for more information, but unfortunately I'm only able to support with PC only.
 
 # ⚙️ How to Install
-For PC:
+🖥️ For PC:
 1. [REQUIRED] Install Claudia's [Dungeon Extension v2](https://github.com/clauds-clauds/ai-dungeon-browser-extension-v2) (follow their guide to set it up)
 2. Download the most recent `.json` portrait preset file in [Release](https://github.com/darkblueofmagic/anime-high-school-rpg-portrait-preset/releases)
 3. Launch your current [🏫 Anime High School RPG](https://play.aidungeon.com/scenario/um1bdeFcKkTH/anime-high-school-rpg?share=true&published=true) adventure
 4. Press the top left button, select the new Editor option, and import the `.json` file using Adventurer Picker
 5. Enjoy!
 
-For Android (Mozilla Firefox browser only):
+📱 For Android (Mozilla Firefox browser only):
 
 1. [REQUIRED] Install Claudia's [Dungeon Extension v2 Add-On](https://addons.mozilla.org/en-US/firefox/addon/dungeon-extension-v2/) (if you can't install, tap ⋮ and enable desktop site)
 2. Repeat step 2 above
