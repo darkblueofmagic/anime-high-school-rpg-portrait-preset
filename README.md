@@ -22,7 +22,7 @@ For Android (Mozilla Firefox browser only):
 
 # 🤖 Discord Channels (on [AI Dungeon Discord](https://discord.gg/MXNqpSbuZT))
 
-Still couldn't figure it out or want to help others? Join the [🏫 Anime High School RPG Discord thread](https://discord.com/channels/903327676884979802/1514685681119789166) for live chat and technical help.
+Still couldn't figure it out or want to help out? Join the [🏫 Anime High School RPG Discord thread](https://discord.com/channels/903327676884979802/1514685681119789166) for live chat and technical help.
 
 More information about Dungeon Extension v2 itself can be found on Claudia's [Dungeon Extension v2 Discord thread](https://discord.com/channels/903327676884979802/1417245468542636062) instead.
 
