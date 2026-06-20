@@ -1,4 +1,4 @@
-# 🏫 Anime High School RPG: Portrait Preset [Ver 0.3]
+# 🏫 Anime High School RPG: Portrait Preset [Ver 0.4]
 
 Experimental: This Portrait Preset is still in its initial stage, expect future updates and changes!
 
