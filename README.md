@@ -28,4 +28,4 @@ More information about Dungeon Extension v2 itself can be found on Claudia's [Du
 <img width="1300" height="900" alt="Showcase" src="https://github.com/user-attachments/assets/f176baa4-e117-446d-9636-f936b78ae3dc" />
 
 # 👥 Current Portrait Gallery
-<img width="1712" height="912" alt="Gallery" src="https://github.com/user-attachments/assets/8a3dc499-a4e0-4661-8c1e-3dd33abf9329" />
+<img width="1700" height="900" alt="KonjouGallery" src="https://github.com/user-attachments/assets/2cdb31dd-e3f9-40d9-808c-ebc356239f23" />
