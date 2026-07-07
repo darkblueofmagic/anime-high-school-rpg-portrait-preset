@@ -1,4 +1,5 @@
 # 🏫 Anime High School Life: Portrait Preset [Ver 0.5]
+IMPORTANT: The latest AI Dungeon no longer work with Claudia's Dungeon Extension v2. However, @ylliselmanii on the [Dungeon Extension v2 Discord thread](https://discord.com/channels/903327676884979802/1417245468542636062) has created a fixed version, but you'll have manually install the files for step #1 (at your own risk!) to set up Dungeon Extension v2. Step #2 to #5 are still the same.
 
 Experimental: This Portrait Preset is still in its initial stage, expect future updates and changes!
 
