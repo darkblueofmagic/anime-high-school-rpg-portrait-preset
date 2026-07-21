@@ -1,5 +1,5 @@
 # 🏫 Anime High School Life: Portrait Preset [Ver 0.5]
-IMPORTANT: The latest AI Dungeon update no longer works with Claudia's original Dungeon Extension v2. However, Mahesvara/Oratorian on Discord has created a Resurrected version (Mozilla Firefox fully supported; Chrome version exists, but you'll have to manually get the file from the Dungeon Extension v2 Discord thread in the link below at your own risk).
+IMPORTANT: The latest AI Dungeon update no longer works with Claudia's original Dungeon Extension v2. However, Mahesvara/Oratorian on Discord has created a Resurrected version (Mozilla Firefox fully supported; Chrome version exists, but you'll have to manually get the file from the Dungeon Extension v2 Discord thread in the link below).
 
 Experimental: This Portrait Preset is still in its initial stage, expect future updates and changes!
 
