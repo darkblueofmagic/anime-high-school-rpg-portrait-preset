@@ -22,4 +22,5 @@ Also check out [@Claudia](https://github.com/clauds-clauds)'s [original Discord 
 <img width="1300" height="900" alt="Showcase" src="https://github.com/user-attachments/assets/f176baa4-e117-446d-9636-f936b78ae3dc" />
 
 # 👥 Current Portrait Gallery
-<img width="1700" height="900" alt="KonjouGallery" src="https://github.com/user-attachments/assets/2cdb31dd-e3f9-40d9-808c-ebc356239f23" />
+<img width="1700" height="800" alt="Updaez" src="https://github.com/user-attachments/assets/6896eafd-e528-4096-a438-ecbf42fe0395" />
+
