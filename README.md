@@ -6,7 +6,7 @@ IMPORTANT: The original [Dungeon Extension v2](https://github.com/clauds-clauds/
 1. [REQUIRED] Install Dungeon Extension v2 Resurrected with one of these links: [[GitHub]](https://github.com/Oratorian/ai-dungeon-browser-extension-v2) [[Firefox]](https://addons.mozilla.org/en-US/firefox/addon/dungeonextensionv2resurrect/) [[Chrome]](https://chromewebstore.google.com/detail/dungeon-extension-v2-resu/keegfhpckdjecndjlgmjnjlfhlnepiga)
 3. Download the most recent `.json` portrait preset file in [Release](https://github.com/darkblueofmagic/anime-high-school-rpg-portrait-preset/releases)
 4. Launch your current [🏫 Anime High School Life](https://play.aidungeon.com/scenario/um1bdeFcKkTH/anime-high-school-rpg?share=true&published=true) adventure
-5. Press the top left menu button, select the new Editor option, and import the `.json` file using Adventurer Picker
+5. Press the newly-appeared fox button and import the `.json` file using Adventurer Picker
 6. Enjoy!
 
 Note for Android: If you can't install at step #1, try enabling desktop site on your browser. You can disable it later at step #5.
