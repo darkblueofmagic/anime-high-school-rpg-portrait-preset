@@ -1,5 +1,9 @@
-# 🏫 Anime High School Life: Portrait Preset [Ver 0.7]
+# 🏫 Anime High School Life: Portrait Preset [COMPLETED VERSION]
 IMPORTANT: The original [Dungeon Extension v2](https://github.com/clauds-clauds/ai-dungeon-browser-extension-v2) no longer works with current AI Dungeon updates. However, [@Oratorian](https://github.com/Oratorian) has created a Resurrected version. Installation below.
+
+# NEW! VISUAL NOVEL MODE SUPPORT!
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/3730bb65-52c7-4cf6-a752-5d8b6fe64c44" />
+
 
 # ⚙️ How to Install
 
@@ -22,5 +26,5 @@ Also check out [@Claudia](https://github.com/clauds-clauds)'s [original Discord 
 <img width="1300" height="900" alt="Showcase" src="https://github.com/user-attachments/assets/f176baa4-e117-446d-9636-f936b78ae3dc" />
 
 # 👥 Current Portrait Gallery
-<img width="1700" height="800" alt="Updaez" src="https://github.com/user-attachments/assets/6896eafd-e528-4096-a438-ecbf42fe0395" />
+<img width="1677" height="1008" alt="image" src="https://github.com/user-attachments/assets/667d2b0c-c2f1-42c7-9a6a-3f6fa77a1a05" />
 
