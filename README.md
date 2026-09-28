@@ -2,6 +2,8 @@
 IMPORTANT: The original [Dungeon Extension v2](https://github.com/clauds-clauds/ai-dungeon-browser-extension-v2) no longer works with current AI Dungeon updates. However, [@Oratorian](https://github.com/Oratorian) has created a Resurrected version. Installation below.
 
 # NEW! VISUAL NOVEL MODE SUPPORT!
+<img width="1917" height="1198" alt="Screenshot 2026-09-28 105215" src="https://github.com/user-attachments/assets/bff07f91-e9ee-4b21-9e8a-b74e423c7d64" />
+
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/3730bb65-52c7-4cf6-a752-5d8b6fe64c44" />
 
 
