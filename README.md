@@ -26,7 +26,3 @@ Also check out [@Claudia](https://github.com/clauds-clauds)'s [original Discord 
 
 # 📸 In-game Preview
 <img width="1300" height="900" alt="Showcase" src="https://github.com/user-attachments/assets/f176baa4-e117-446d-9636-f936b78ae3dc" />
-
-# 👥 Current Portrait Gallery
-<img width="1677" height="1008" alt="image" src="https://github.com/user-attachments/assets/667d2b0c-c2f1-42c7-9a6a-3f6fa77a1a05" />
-
